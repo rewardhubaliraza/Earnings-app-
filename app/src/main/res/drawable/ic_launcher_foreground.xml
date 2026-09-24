@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        <!-- Shield background -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M54,12L24,24v30c0,18.5 12.8,35.8 30,42c17.2,-6.2 30,-23.5 30,-42V24L54,12z" />
+        <!-- Inner emblem -->
+        <path
+            android:fillColor="#1A237E"
+            android:pathData="M54,18L28,28.5v25.5c0,15.7 11.1,30.4 26,35.7c14.9,-5.3 26,-20 26,-35.7V28.5L54,18z" />
+        <!-- Currency / Trend symbol -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M48,34h12v6h-12z M44,44h20v6h-20z M40,54h28v6h-28z M51,30h6v38h-6z" />
+    </group>
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "SmartEarn",
+  "description": "Daily Earnings & Investment Platform with Free Registration, Manual Plan Selection via JazzCash, and Central Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
